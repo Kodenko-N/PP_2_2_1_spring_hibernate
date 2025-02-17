@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3e6e87fd-b9a0-48cb-a56e-4566719ed0ac" name="Changes" comment="PP_2_2_1 (One-to-One Hibernate Spring, User+Car)&#10;VIA EntityManager (practice for PP_2_2_3) &#10;V.1.0" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Solution_via_EntityManager" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Kodenko-N&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/KataAcademy/PP_2_2_1_spring_hibernate&quot;,
+    &quot;accountId&quot;: &quot;5be55a71-6cac-4282-b1d0-343e4996e7eb&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2siJT9CnNiBWk56RosGfQ29gg35" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.MainApp.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ThinkPad/IdeaProjects/Cata2/src/Cata_Java_Base_plus_Practice/Cata_1_3_4_IsPolymorf.java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.4275862",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="hiber.config" />
+      <recent name="hiber.model" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e6e87fd-b9a0-48cb-a56e-4566719ed0ac" name="Changes" comment="" />
+      <created>1738932467051</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738932467051</updated>
+      <workItem from="1738932468325" duration="722000" />
+      <workItem from="1739130844693" duration="6397000" />
+      <workItem from="1739192994759" duration="224000" />
+      <workItem from="1739392987451" duration="1911000" />
+      <workItem from="1739432489299" duration="3831000" />
+      <workItem from="1739460132629" duration="525000" />
+      <workItem from="1739650181232" duration="7982000" />
+      <workItem from="1739785502820" duration="5981000" />
+    </task>
+    <task id="LOCAL-00001" summary="PP_2_2_1 (One-to-One Hibernate Spring, User+Car)&#10;V.1.0">
+      <option name="closed" value="true" />
+      <created>1739136791717</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739136791717</updated>
+    </task>
+    <task id="LOCAL-00002" summary="PP_2_2_1 (One-to-One Hibernate Spring, User+Car)&#10;V.1.0.1">
+      <option name="closed" value="true" />
+      <created>1739652165318</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1739652165318</updated>
+    </task>
+    <task id="LOCAL-00003" summary="PP_2_2_1 (One-to-One Hibernate Spring, User+Car)&#10;VIA EntityManager (practice for PP_2_2_3) &#10;V.1.0">
+      <option name="closed" value="true" />
+      <created>1739652322276</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1739652322276</updated>
+    </task>
+    <task id="LOCAL-00004" summary="PP_2_2_1 (One-to-One Hibernate Spring, User+Car)&#10;VIA EntityManager (practice for PP_2_2_3) &#10;V.1.0">
+      <option name="closed" value="true" />
+      <created>1739652912224</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1739652912224</updated>
+    </task>
+    <task id="LOCAL-00005" summary="PP_2_2_1 (One-to-One Hibernate Spring, User+Car)&#10;VIA EntityManager (practice for PP_2_2_3) &#10;V.1.0">
+      <option name="closed" value="true" />
+      <created>1739652957743</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1739652957743</updated>
+    </task>
+    <task id="LOCAL-00006" summary="PP_2_2_1 (One-to-One Hibernate Spring, User+Car)&#10;VIA EntityManager (practice for PP_2_2_3) &#10;V.1.0">
+      <option name="closed" value="true" />
+      <created>1739654524926</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1739654524926</updated>
+    </task>
+    <task id="LOCAL-00007" summary="PP_2_2_1 (One-to-One Hibernate Spring, User+Car)&#10;VIA EntityManager (practice for PP_2_2_3) &#10;V.1.0">
+      <option name="closed" value="true" />
+      <created>1739827658051</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1739827658051</updated>
+    </task>
+    <task id="LOCAL-00008" summary="PP_2_2_1 (One-to-One Hibernate Spring, User+Car)&#10;VIA EntityManager (practice for PP_2_2_3) &#10;V.1.0">
+      <option name="closed" value="true" />
+      <created>1739827705693</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1739827705693</updated>
+    </task>
+    <task id="LOCAL-00009" summary="PP_2_2_1 (One-to-One Hibernate Spring, User+Car)&#10;VIA EntityManager (practice for PP_2_2_3) &#10;V.1.0">
+      <option name="closed" value="true" />
+      <created>1739828013383</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1739828013383</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <MESSAGE value="PP_2_2_1 (One-to-One Hibernate Spring, User+Car)&#10;V.1.0" />
+    <MESSAGE value="PP_2_2_1 (One-to-One Hibernate Spring, User+Car)&#10;V.1.0.1" />
+    <MESSAGE value="PP_2_2_1 (One-to-One Hibernate Spring, User+Car)&#10;VIA EntityManager (practice for PP_2_2_3) &#10;V.1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="PP_2_2_1 (One-to-One Hibernate Spring, User+Car)&#10;VIA EntityManager (practice for PP_2_2_3) &#10;V.1.0" />
+  </component>
+</project>
